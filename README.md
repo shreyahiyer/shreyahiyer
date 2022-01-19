@@ -1,5 +1,5 @@
 
-- 📫 How to reach me shreyahiyer@gmail.com
+- 📫 How to reach me shreyah.iyer@cytora.com
 
 <!---
 shreyahiyer/shreyahiyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
